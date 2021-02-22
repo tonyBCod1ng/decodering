@@ -7,7 +7,7 @@
     "start": "live-server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anthony Brown",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
